@@ -1,0 +1,10 @@
+
+{
+  "name": "SEWA (Social Empowerment & Welfare Application) ",
+  "description": "An integrated platform uniting citizens, NGOs, and government for social welfare, issue reporting, health assistance, and community building.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
